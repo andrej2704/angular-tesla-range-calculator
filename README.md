@@ -1,1 +1,0 @@
-# angular-tesla-range-calculator
